@@ -53,6 +53,23 @@ How many pennies?: 3
 
 Here is $0.23 in change.
 Enjoy your latte!!
+
+
+# How to Use This Project
+
+## Installation
+
+To clone and run this coffee machine simulator:
+
+```bash
+# Clone the repository
+gh repo clone Eng-abdelhamed/Pythonic-OOP-Coffe-Machine
+
+# Navigate to project directory
+cd Pythonic-OOP-Coffe-Machine
+
+# Run the coffee machine
+python coffee_machine.py
 ## Usage
 
 1. Run the Python script
