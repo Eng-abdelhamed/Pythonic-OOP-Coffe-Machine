@@ -53,8 +53,7 @@ How many pennies?: 3
 
 Here is $0.23 in change.
 Enjoy your latte!!
-
-
+```
 # How to Use This Project
 
 ## Installation
@@ -74,3 +73,11 @@ python coffee_machine.py
 
 1. Run the Python script
 2. Choose from available commands:
+```
+# Using HTTPS
+```bash
+git clone https://github.com/Eng-abdelhamed/Pythonic-OOP-Coffe-Machine.git
+
+# Or using SSH (requires GitHub SSH setup)
+git clone git@github.com:Eng-abdelhamed/Pythonic-OOP-Coffe-Machine.git
+```
