@@ -33,6 +33,26 @@ A Python OOP implementation of a coffee vending machine with resource management
 | `Menu` | Handles drink menu operations |
 | `Money_machine` | Processes payments and profits |
 
+
+3. For drinks:
+- Insert coins when prompted
+- Receive your drink (if resources/payment sufficient)
+- Get change if overpaid
+
+## 📋 Example Flow
+
+```text
+What would you like? |latte||espresso||cappuccino|: 
+> latte
+
+Please insert coins:
+How many Quarters?: 4
+How many dimes?: 2
+How many nickles?: 1
+How many pennies?: 3
+
+Here is $0.23 in change.
+Enjoy your latte!!
 ## Usage
 
 1. Run the Python script
