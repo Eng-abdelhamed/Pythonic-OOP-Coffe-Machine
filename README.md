@@ -68,7 +68,7 @@ gh repo clone Eng-abdelhamed/Pythonic-OOP-Coffe-Machine
 cd Pythonic-OOP-Coffe-Machine
 
 # Run the coffee machine
-python coffee_machine.py
+python MainProgram.py
 ## Usage
 
 1. Run the Python script
