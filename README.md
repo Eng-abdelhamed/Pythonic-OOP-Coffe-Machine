@@ -1,4 +1,4 @@
-# ☕ Coffee Machine Simulator
+# Coffee Machine Simulator
 
 A Python OOP implementation of a coffee vending machine with resource management, payment processing, and menu system.
 
